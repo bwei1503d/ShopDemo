@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. NoActionBar DarkActionBar-->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="TabStyle" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/tab_bg</item>
+        <item name="windowNoTitle">false</item>
+        <item name="windowActionBar">true</item>
+        <item name="android:textColor">#000000</item>
+
+    </style>
+
+
+</resources>
